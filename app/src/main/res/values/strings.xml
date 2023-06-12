@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ejercicio_Sem11</string>
+    <string name="Exam_Admision">"Examen de Admisión 2023 "</string>
+    <string name="Text_AN">Apellidos y Nombres</string>
+    <string name="Nom_App" />
+    <string name="Password">Clave</string>
+    <string name="Date">Fecha de Nacimiento</string>
+    <string name="Carrier">Carrera</string>
+    <string name="Media">¿Por qué medio se enteró de la convocatoria?</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="Checkbox_radio">Radio</string>
+    <string name="Checbox_internet">Internet</string>
+    <string name="Checkbox_amigo">Amigo</string>
+    <string name="Checkbox_publicidad">Publicidad</string>
+    <string name="radiobutton_IS">Ingeniería de Sistemas</string>
+    <string name="radiobutton_IA">Ingeniería Ambiental</string>
+    <string name="radiobutton_IM">Ingeniería Mecánica</string>
+    <string name="radiobutton_admin">Administración</string>
+</resources>
